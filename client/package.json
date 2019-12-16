@@ -9,6 +9,8 @@
     "cors": "^2.8.5",
     "dotenv": "^8.1.0",
     "express": "^4.17.1",
+    "lodash.template": "^4.5.0",
+    "mixin-deep": "^2.0.1",
     "mysql2": "^1.7.0",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
@@ -18,7 +20,9 @@
     "react-materialize": "^3.5.7",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.1",
-    "sequelize": "^5.18.1"
+    "sequelize": "^5.18.1",
+    "serialize-javascript": "^2.1.2",
+    "set-value": "^3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
